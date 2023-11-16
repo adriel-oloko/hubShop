@@ -1,0 +1,240 @@
+body {
+	overflow: none;
+	
+	margin-bottom: -10px;
+	box-sizing: content-box;
+	margin: 0;
+	margin-top: 10px;
+}
+
+.bar-4 {
+	padding: 0px;
+	line-height: 0px;
+	margin-bottom: 0px;
+	
+}
+
+#icon-check {
+	color: green;
+}
+
+#icon-cross {
+	color: red;
+}
+
+th {
+	border: 0px solid red;
+}
+
+a {
+	text-decoration: none;
+}
+
+button {
+	background: white;
+	border: 0px solid white;
+	outline: none;
+}
+
+img{
+	max-width: 100%;
+	height: auto;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	border: 0px solid black;
+}
+
+
+#main {
+	text-align: center;
+	font-size: 13px;
+	border: 0px solid red;
+	margin: auto;
+	width: 90%;
+	padding: 0px;
+}
+
+#footer {
+	margin-top: 10px;
+	text-align: center;
+	font-size: 13px;
+	width: 100%;
+	margin: auto;
+	
+	background: #F0EDED;
+}
+
+#logo-hold {
+	margin: auto;
+	border-radius: 50%;
+	border: 1px solid #010070;
+	width: 40px;
+	height: 40px;
+	background-color: #fff;
+	box-shadow: 0px 0px 10px #001895;
+	padding: 3px;
+}
+
+#menu-button {
+	border: 1px solid #010070;
+	border-left: none;
+	width: 47px;
+	height: 28px;
+	background-color: #fff;
+	/*box-shadow: 0px 0px 10px #001895;*/
+	padding-top: 0px; padding-bottom: 0px;
+	padding-right: 8px;
+	font-size: 0px;
+	border-radius: 0% 10px 10px 0%;
+}
+
+#banner-container {
+	width: 100%;
+	border: 1px solid #010070;
+	border-left: none;
+	
+	height: 25px;
+	background-color: #fff;
+	/*box-shadow: 0px 0px 10px #001895;*/
+}
+
+#header-tr th {
+	width: 50%;
+	border: 0px solid red;
+}
+
+#menu-floats {
+	position: fixed;
+	bottom: 15px;
+	right: 15px;
+	background-color: rgba(0, 0, 0, 0);
+	color: #000;
+	height: 170px;
+	border: 0px solid gold;
+	width: 45px;
+	/*padding: 20px;*/
+	text-align: center;
+	z-index: 0;
+}
+
+#icon-hold {
+	width: 40px;
+	height: 40px;
+	border-radius: 100%;
+	box-shadow: 5px 6px 12px #aaa;
+	margin: auto;
+	margin-top: 10px;
+	padding: 3px;
+	text-align: center;
+	font-size: 30px;
+	background: #fff;
+	z-index: -1;
+	color: #000;
+}
+
+#navbar {
+	display: none;
+	color: #000;
+	background-color: #fff;
+	min-height: 100%;
+	overflow: auto;
+	width: 63%;
+	float:right;
+	top: 0;
+	z-index: 1;
+	margin-left: 0px;
+	position: fixed;
+	height: 100%;
+	border-right: 1px solid #ccc;
+	padding-left: 17px;
+	font-family: 'Nunito', sans-serif;
+}
+
+#header-name {
+	border: 0px solid red;
+	width: 70%;
+	float: left;
+	padding: 5px;
+}
+
+
+#header-nav-button {
+	border: 0px solid blue;
+	width: auto;
+	padding: 5px;
+}
+
+.post-img{
+	 background-color:white;
+	 padding:0px;
+	 border-left:0px solid lightgrey;
+	 height: 250px;
+}
+
+.post{
+	 background-color: white;
+	 padding:0px;
+	 height: auto;
+	 width: 100%;
+}
+
+#social {
+	border: 1px solid red;
+	width: 100%;
+}
+
+
+#myInput { 
+	background-image: url('/img/search.png');
+	background-position: 5px 10px;
+	background-size:40px;			 
+	background-repeat: no-repeat;
+	width: 100%;	
+	box-sizing: border-box;
+	font-size: 16px;
+	padding: 12px 20px 12px 40px;
+	border: 1px solid #ddd;
+	margin-bottom: 12px;
+	outline: none;
+}
+			
+#myTable {
+	border-collapse: collapse;
+	width: 100%; border: 1px solid #ddd; 
+	font-size: 13px;	
+}
+	
+#myTable th, #myTable td {		 	 
+	text-align: left;
+	padding: 12px;
+}
+
+#myTable tr {	
+	border-bottom: 1px solid #ddd;
+}
+
+#myTable tr.header, #myTable tr:hover{
+	background-color: #f1f1f1;
+}
+
+#mt {	
+	border-collapse: collapse;
+	width: 100%;	
+	border: 1px solid #ddd;
+	font-size: 14px;
+	border-radius: 10px;
+}
+
+#mt th, #mt td {
+	text-align: left;
+	padding: 12px;
+}
+
+#my tr {
+	border-bottom: 1px solid #ddd;		
+}
+
+#mt tr.header, #my tr:hover{
+	background-color: #f1f1f1;
+}

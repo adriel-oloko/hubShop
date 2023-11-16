@@ -1,0 +1,16 @@
+<section class="col8 card _fw -pvs -mvxs -fs12">
+<div class="markup -oxa -pas">Rock this Throne Of Grace printed hoodie to represent your faith in God's grace.<br /><br />The hoodie is made of thick, soft and comfortable hood material and is meant for both male and female.<br /><br />Please check our store out for more colours, designs and options at www.jumia.com.ng/danami<br />Thank you.</div>
+</section>
+<section class="col8 card _fw -pvs -mvxs -fs12">
+<h3 class="-m -fs14 -phs">Key Features</h3>
+<div class="markup -pas">
+<ul>
+<li>Quality fabric</li>
+<li>Thick &amp; comfortable</li>
+<li>Non fading</li>
+<li>Sharp print</li>
+<li>Front pocket</li>
+<li>Unisex</li>
+</ul>
+</div>
+</section>

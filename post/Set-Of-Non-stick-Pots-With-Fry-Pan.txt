@@ -1,0 +1,20 @@
+<section class="col8 card _fw -pvs -mvxs -fs12">
+<div class="markup -oxa -pas">These 4 set (4 Pieces including the frypan) Non-Stick Cookware has been designed to allow you prepare virtually any kind of food. Its nice interior coating helps keep food from sticking and also allows for easy cleaning afterwards. It is dishwasher safe so cleaning is even easier.</div>
+<div class="markup -oxa -pas">&nbsp;</div>
+<div class="markup -oxa -pas">Additionally, its elegant exterior will complement your kitchen decor. The handles are well-designed to provide a comfortable and secure grip. It also remains cool even after heat has been applied to the cookware. The non-stick pots heat up quickly and food is guaranteed to be cooked evenly. You will use less oil when cooking with the non-stick pots which make them ideal for health conscious people.</div>
+<div class="markup -oxa -pas">&nbsp;</div>
+<div class="markup -oxa -pas">This Non-Stick Cookware is made from high grade materials which ensure superior durability. You can use these non-stick pots for a long period of time. They offer best results at all times. They have glass with stainless covers which allows for proper viewing while cooking and they offer a tight fit so all the nutrients and flavor will be properly trapped in. These non-stick pots come in different sizes to accommodate all your cooking needs.</div>
+</section>
+<section class="col8 card _fw -pvs -mvxs -fs12">
+<h3 class="-m -fs14 -phs">Key Features</h3>
+<div class="markup -pas">
+<ul>
+<li>3&nbsp;pots and 3 lids&nbsp;</li>
+<li>Quality frypan&nbsp;</li>
+<li>High quality non stick pots</li>
+<li>Contemporary design</li>
+<li>prevents burning or sticking of foods</li>
+<li>durable</li>
+</ul>
+</div>
+</section>

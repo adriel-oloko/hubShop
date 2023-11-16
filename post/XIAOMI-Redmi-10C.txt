@@ -1,0 +1,24 @@
+<section class="col8 card _fw -pvs -mvxs -fs12">
+<div class="markup -oxa -pas">For imaging duties, the <strong>Redmi 10C</strong> has a triple-camera setup which includes a 13MP+2MP+2MP. Backed by a 5000mAh battery. The 5MP front camera is for taking wide-angle photos.</div>
+<div class="markup -oxa -pas">&nbsp;</div>
+<div class="markup -oxa -pas">A normal camera lens takes a 75&deg; angle photo and the problem with that angle is that it's a small frame that is not good for group photos or scenic photos. To take wide-angle photos, you need a wide-angle camera. With a wide-angle camera, you get an angle that fits everything on the frame without you moving back to capture the whole scene.</div>
+<div class="markup -oxa -pas">&nbsp;</div>
+<div class="markup -oxa -pas">The <strong>camera is for taking close-ups&nbsp;</strong>of small objects. Trying to capture close-ups of small objects can be difficult using a normal camera lens. The more you move your smartphone towards the subject the more distorted the image becomes. With a macro camera, you can take clear, detailed images of up to 2.5cm of the subject without losing clarity. Do more with the Redmi 10C.</div>
+<div class="markup -oxa -pas">&nbsp;</div>
+<div class="markup -oxa -pas">NETWORK Technology GSM / HSPA / LTE2G bands GSM 850 / 900 / 1800 / 1900 - SIM 1 &amp; SIM 23G bands HSDPA 850 / 900 / 1700(AWS) / 1900 / 21004G bands 1, 2, 3, 4, 5, 7, 8, 20, 28, 38, 40, 41Speed HSPA 42.2/5.76 Mbps, LTE-ALAUNCH Announced 2020, June 30Status Available. Released 2020, August 12BODY Dimensions 164.9 x 77 x 9 mm (6.49 x 3.03 x 0.35 in)Weight 196 g (6.91 oz)SIM Dual SIM (Nano-SIM, dual stand-by)DISPLAY Type IPS LCD, 400 nits (typ)Size 6.53 inches, 102.9 cm2 (~81.1% screen-to-body ratio)Resolution 720 x 1600 pixels, 20:9 ratio (~269 ppi density)PLATFORM OS Android 10, MIUI 12Chipset MediaTek MT6765G Helio G35 (12 nm)CPU Octa-core (4x2.3 GHz Cortex-A53 &amp; 4x1.8 GHz Cortex-A53)GPU PowerVR GE8320MEMORY Card slot microSDXC (dedicated slot)Internal 32GB 2GB RAM, 32GB 3GB RAM, 64GB 3GB RAM, 64GB 4GB RAM, 128GB 4GB RAM&nbsp; eMMC 5.1MAIN CAMERA Triple 13 MP, f/2.2, 28mm (wide), 1.0&micro;m, PDAF2 MP, f/2.4, (macro)2 MP, f/2.4, (depth)Features LED flash, HDRVideo 1080p@30fpsSELFIE CAMERA Single 5 MP, f/2.2, (wide), 1.12&micro;mFeatures HDRVideo 1080p@30fpsSOUND Loudspeaker Yes3.5mm jack YesCOMMS WLAN Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspotBluetooth 5.0, A2DP, LEGPS Yes, with A-GPS, GLONASS, BDSNFC NoRadio FM radioUSB microUSB 2.0, USB On-The-GoFEATURES Sensors Fingerprint (rear-mounted), accelerometer, proximityBATTERY Type Li-Po 5000 mAh, non-removable</div>
+</section>
+<section class="col8 card _fw -pvs -mvxs -fs12">
+<h3 class="-m -fs14 -phs">Key Features</h3>
+<div class="markup -pas">
+<ul>
+<li>Screen: 6.53-Inch Display</li>
+<li>CPU: Octa Core</li>
+<li>Storage: 4GB RAM; 128GB ROM</li>
+<li>Operating System: Android 10</li>
+<li>Camera: (13 MP + 2MP + 2MP) + 5MP Selfie</li>
+<li>ID: Fingerprint</li>
+<li>Network: 4G</li>
+<li>Battery: Non-removable Li-Po 5000mAh Battery</li>
+</ul>
+</div>
+</section>

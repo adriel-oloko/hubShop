@@ -1,0 +1,14 @@
+<section class="col8 card _fw -pvs -mvxs -fs12">
+<div class="markup -oxa -pas">Sprite is a colorless, caffeine free, lemon and lime flavored soft drink created by The Coca-Cola Company. It contains no fat and has a taste similar to that of 7Up. It is not often that a soft drink is seen as medicinal.&nbsp;<br /><br />But when it comes to stomach distress, many people view a cup of flat sprite soda (opened for a while) as just what the doctor ordered. Its dissolved sodium makes it an excellent thirst quencher.&nbsp;<br /><br />Just like an electrolyte, the dissolved sodium helps your body to absorb water for rehydration after vomiting or diarrhea. Unlike other sodas that contain the likes of fish, beef, or pork gelatine, Sprite is suitable for vegetarians and vegans.<br /><br />It is also versatile and can be used to make some popular recipes like Bacardi limoni, home made spirit, sprite biscuits, sprite pork adobo, sprite pound cake, chicken marinated in sprite, sprite and gummy bear popsicles, puff pastries with sprite and so many others.&nbsp;<br /><br />Buy Sprite Pet Bottle 35cl on Hub. For both kids and adults, a cold soft drink can be a nice treat with meals or to quench thirst on hot sunny days.</div>
+</section>
+<section class="col8 card _fw -pvs -mvxs -fs12">
+<h3 class="-m -fs14 -phs">Key Features</h3>
+<div class="markup -pas">
+<ul>
+<li>Colourless</li>
+<li>Caffeine free</li>
+<li>Lemon and lime flavoured soft drink</li>
+<li>No fat</li>
+</ul>
+</div>
+</section>

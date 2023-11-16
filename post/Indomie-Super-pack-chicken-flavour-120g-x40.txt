@@ -1,0 +1,14 @@
+<section class="col8 card _fw -pvs -mvxs -fs12">
+<div class="markup -oxa -pas"><span style="font-family: helvetica, arial, sans-serif;">Indomie Instant Noodles&nbsp;</span>&ndash; SUPER PACK CHICKEN<br /><br /><span style="font-family: helvetica, arial, sans-serif;">The pack size was created as a result of consumer research which showed a growing affinity for the brand amongst many teenagers and young adults. Hence, a desire to have Indomie Chicken flavor in a bigger size, and a more mouth filling pack size to heed the consumer&rsquo;s bid.</span></div>
+</section>
+<section class="col8 card _fw -pvs -mvxs -fs12">
+<h3 class="-m -fs14 -phs">Key Features</h3>
+<div class="markup -pas">
+<ul>
+<li><span style="font-family: helvetica, arial, sans-serif;">Chicken flavor</span></li>
+<li><span style="font-family: helvetica, arial, sans-serif;">Super pack</span></li>
+<li><span style="font-family: helvetica, arial, sans-serif;">Enjoyed by everyone</span></li>
+<li><span style="font-family: helvetica, arial, sans-serif;">Great taste</span></li>
+</ul>
+</div>
+</section>

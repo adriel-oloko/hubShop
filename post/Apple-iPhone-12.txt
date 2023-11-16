@@ -1,0 +1,39 @@
+<section class="col8 card _fw -pvs -mvxs -fs12">
+<h2 class="-m -fs14 -phs"><span style="font-size: 14pt;">Description</span></h2>
+<div class="markup -oxa -pas">The iPhone 12 display has rounded corners that follow a beautiful curved design, and these corners are within a standard rectangle. When measured as a standard rectangular shape, the screen is 6.06 inches diagonally.Dual Sim.<br /><img class="a-spacing-base" src="https://ng.jumia.is/cms/external/pet/AP044MP0WAMVHNAFAMZ/cde46ae5c1279fe8df2df4b075b9db0f.jpg" alt="Apple iPhone 12" data-src="https://ng.jumia.is/cms/external/pet/AP044MP0WAMVHNAFAMZ/cde46ae5c1279fe8df2df4b075b9db0f.jpg" />
+<h3 class="a-spacing-mini">5G speed</h3>
+<p>5G on iPhone is superfast. So you can download movies on the fly. Stream higher-quality video. Or update apps or iOS over cellular. And you can do it in more places, because iPhone 12 has the broadest 5G coverage worldwide.</p>
+<img class="" src="https://ng.jumia.is/cms/external/pet/AP044MP0WAMVHNAFAMZ/d0e2d09af2e8887788051f13b1afa962.jpg" alt="Apple iPhone 12" data-src="https://ng.jumia.is/cms/external/pet/AP044MP0WAMVHNAFAMZ/d0e2d09af2e8887788051f13b1afa962.jpg" />
+<h3 class="a-spacing-mini"><span style="font-size: 14pt;">A14 Bionic is the fastest chip in a smartphone</span></h3>
+<p>And it pushes what&rsquo;s possible. Like crunching trillions of operations on the Neural Engine. Or shooting in Dolby Vision &mdash; even pro movie cameras can&rsquo;t do that. It&rsquo;s superefficient for great battery life. And it&rsquo;s ahead of its time, prepared to power pretty much anything that comes next.</p>
+<img class="" src="https://ng.jumia.is/cms/external/pet/AP044MP0WAMVHNAFAMZ/64b815e8024cb67164793128679750ba.jpg" alt="Apple iPhone 12" data-src="https://ng.jumia.is/cms/external/pet/AP044MP0WAMVHNAFAMZ/64b815e8024cb67164793128679750ba.jpg" />
+<h1 class="aplus-13-heading-text a-text-bold"><span style="font-size: 14pt;">Super Retina XDR display</span></h1>
+<p>Behold OLED.</p>
+<p>Vastly more contrast. Incredible color accuracy. A huge jump in pixel density. Wow. Just wow. OLED delivers brighter brights, darker blacks, and higher resolution for everything you look at. This is the best iPhone display we&rsquo;ve ever made, and it goes all the way to the edge.</p>
+<img class="a-spacing-base" src="https://ng.jumia.is/cms/external/pet/AP044MP0WAMVHNAFAMZ/e130544435125726274413e769535736.jpg" alt="Apple iPhone 12" data-src="https://ng.jumia.is/cms/external/pet/AP044MP0WAMVHNAFAMZ/e130544435125726274413e769535736.jpg" />
+<h3 class="a-spacing-mini">Dual‑camera system</h3>
+<p>Both the Wide and Ultra Wide cameras now have Night mode &mdash; and it&rsquo;s better than ever at capturing incredible low-light shots. The new Wide camera brings in 27 percent more light. So whether you take photos by day or by moonlight, you&rsquo;ll get a level of detail and color that wasn&rsquo;t possible before.</p>
+<img class="a-spacing-mini" src="https://ng.jumia.is/cms/external/pet/AP044MP0WAMVHNAFAMZ/912b349e889de84be148c3acf71818b6.jpg" alt="Apple iPhone 12" data-src="https://ng.jumia.is/cms/external/pet/AP044MP0WAMVHNAFAMZ/912b349e889de84be148c3acf71818b6.jpg" />
+<h3 class="a-spacing-mini">Night mode selfies</h3>
+<p>You look amazing in the dark.</p>
+<p>Nighttime is the right time for a selfie. Because Night mode and a slew of other great features are now on the front camera. Like Deep Fusion, Smart HDR 3, Dolby Vision recording, and more. You lucky duck face.</p>
+<img class="" src="https://ng.jumia.is/cms/external/pet/AP044MP0WAMVHNAFAMZ/c36491eca49a79c3df1f706c5b8a6c30.jpg" alt="Apple iPhone 12" data-src="https://ng.jumia.is/cms/external/pet/AP044MP0WAMVHNAFAMZ/c36491eca49a79c3df1f706c5b8a6c30.jpg" />
+<h3 class="a-spacing-mini">Turbo chargeable.</h3>
+<p>Magnets align themselves perfectly every time for faster wireless charging.</p>
+</div>
+<iframe class="y-ifm" title="product_detail_youtube-title" src="https://www.youtube.com/embed/iiI8lJaZo90?enablejsapi=1" allowfullscreen="true"></iframe></section>
+<section class="col8 card _fw -pvs -mvxs -fs12">
+<h2 class="-m -fs14 -phs"><span style="font-size: 14pt;">Key Features</span></h2>
+<div class="markup -pas">
+<ul>
+<li>6.1-Inch Display</li>
+<li>Nano SIM</li>
+<li>iOS 14.1</li>
+<li>4GB RAM, 64GB ROM</li>
+<li>Dual Camera 12MP + 12MP&nbsp; and 12MP Selfie Camera</li>
+<li>5G Network Supported&nbsp;</li>
+<li>2815mAh Li-ion non removable Battery</li>
+<li>Adapter and headphones sold separately</li>
+</ul>
+</div>
+</section>

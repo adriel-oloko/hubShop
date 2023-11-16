@@ -1,0 +1,24 @@
+<section class="col8 card _fw -pvs -mvxs -fs12">
+<div class="markup -oxa -pas">
+<section class="col8 card _fw -pvs -mvxs -fs12">
+<div class="markup -oxa -pas">
+<p>Tear into a can of Monster Energy, the meanest energy drink on the planet.</p>
+<p>It's the ideal combo of the right ingredients in the right proportion to deliver the big bad buzz that only Monster can.</p>
+<p>Monster packs a powerful punch but has a smooth easy drinking flavour.</p>
+<p>Athletes, musicians, anarchists, co-ed&rsquo;s, road warriors, metal heads, geeks, hipsters, and bikers dig it- you will too... Unleash the Beast!</p>
+</div>
+</section>
+<section class="col8 card _fw -pvs -mvxs -fs12">
+<h3 class="-m -fs14 -phs">Key Features</h3>
+<div class="markup -pas">
+<ul>
+<li>Carbonated Energy drink with Caffeine</li>
+<li>Includes Ginseng and B Vitamins</li>
+<li>Great Monster taste</li>
+<li>Powerful punch with a smooth easy drinking flavour</li>
+<li>Serve cold for maximum refreshment</li>
+</ul>
+</div>
+</section>
+</div>
+</section>

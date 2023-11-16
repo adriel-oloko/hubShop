@@ -1,0 +1,15 @@
+<div class="post">
+<div>
+<p>Elegant 3piece suit</p>
+<ul>
+<li>3 piece suit</li>
+<li>Shirt</li>
+<li>Long tie</li>
+</ul>
+<p>Dapper man</p>
+<p>Elegant savagery</p>
+<p>Sleek</p>
+<p>Celebrity</p>
+<p>&nbsp;</p>
+</div>
+</div>

@@ -1,0 +1,22 @@
+<div id="footer">
+			<hr />
+
+			<h3 style="margin-bottom: -9px;">Contact Us</h3>
+			<br />
+			<!--<p style="padding:0px 20px 0px 20px;text-align: center;">store@glassesng.com Shop 4, Petrocam shopping complex, off Elf Busstop. opposite Citilodge Hotel. Lekki Phase 1, Lagos. 09098592808</p>-->
+			<p style="padding:0px 20px 0px 20px;text-align: center;">services.hubshop@gmail.com<br /><br />No 1, Ologolo village road, Jakande close, Lekki peninsula, Lagos, Nigeria<br /></p>
+
+			<br />
+
+			<table style="border: None; width: 30%; margin: auto; font-size: 19px;">
+				<tr>
+					<th><i class="fa fa-facebook"></i></th>
+					<th><i class="fa fa-instagram"></i></th>
+					<th><i class="fa fa-twitter"></i></th>
+					<th><i class="fa fa-linkedin"></i></th>
+				</tr>
+			</table>
+
+			<hr style="width: 70%; text-align: center;" />
+			<br />
+			<p>Hub Technologies.<p>

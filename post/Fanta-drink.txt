@@ -1,0 +1,19 @@
+<section class="col8 card _fw -pvs -mvxs -fs12">
+<div class="markup -oxa -pas">
+<section class="col8 card _fw -pvs -mvxs -fs12">
+<div class="markup -oxa -pas">Fanta is an orange flavoured soft drink and a product of the Coca Cola Company that produces some of the world&rsquo;s best known drinks providing refreshment and enjoyment to billions of people everywhere. Fanta stands out from the rest of the competition as it has stood the test of time for years and years, showing itself as one of the best soft drinks in the world.</div>
+<div class="markup -oxa -pas"><br />Fanta&rsquo;s refreshing orange flavours bottled in a unique 35cl bottle is made with 100% natural flavours and contains caffeine, carbonated water, high fructose corn syrup, citric acid, and natural flavours for that amazingly refreshing taste. It is said to have originated after a trade embargo for Coca-Cola, ingredients were placed in 1940 making it the second oldest brand of the Coca-Cola Company.</div>
+</section>
+<section class="col8 card _fw -pvs -mvxs -fs12">
+<h3 class="-m -fs14 -phs">Key Features</h3>
+<div class="markup -pas">
+<ul>
+<li>Refreshing orange flavours</li>
+<li>100% natural flavours</li>
+<li>High fructose corn syrup</li>
+<li>Carbonated soft drink</li>
+</ul>
+</div>
+</section>
+</div>
+</section>

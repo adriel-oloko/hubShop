@@ -1,0 +1,30 @@
+<section class="col8 card _fw -pvs -mvxs -fs12">
+<div class="markup -oxa -pas"><strong>AirPods Max</strong>&nbsp;reimagine over-ear headphones. An Apple-designed dynamic driver provides immersive high-fidelity audio. Every detail, from canopy to cushions, has been designed for an exceptional fit. Active Noise Cancellation blocks outside noise, while Transparency mode lets it in. And spatial audio with dynamic head tracking provides theater-like sound that surrounds you.
+<h3 class="heading-5 v-fw-regular feature-heading">Features</h3>
+<p>An Apple-designed dynamic driver provides high-fidelity audio</p>
+<p>Active Noise Cancellation blocks outside noise, so you can immerse yourself in music</p>
+<p>Transparency mode for hearing and interacting with the world around you</p>
+<p>Spatial audio with dynamic head tracking provides theater-like sound that surrounds you&sup1;</p>
+<p>Computational audio combines a custom acoustic design with the Apple H1 chip and software for breakthrough listening experiences</p>
+<p>Designed with a knit-mesh canopy and memory foam ear cushions for an exceptional fit</p>
+<p>Magical experience with effortless setup, on-head detection, and seamless switching between devices&sup2;</p>
+<p>Easily share audio between two sets of&nbsp;<strong>AirPods</strong>&nbsp;on your iPhone, iPad, iPod touch, or Apple TV</p>
+<p>20 hours of listening, movie watching, or talk time with Active Noise Cancellation and spatial audio enabled&sup3;</p>
+<p>Store in ultra-low-power mode with the slim Smart Case</p>
+<p>&sup1; Spatial audio works with movies, TV, and video in supported apps. Requires iPhone or iPad.</p>
+<p>&sup2; Requires an iCloud account and macOS 11.1, iOS 14.3, iPadOS 14.3, watchOS 7.2, or tvOS 14.3 or later.</p>
+<p>&sup3; Battery life varies by use. See apple.com/batteries for details.</p>
+</div>
+</section>
+<section class="col8 card _fw -pvs -mvxs -fs12">
+<h3 class="-m -fs14 -phs">Key Features</h3>
+<div class="markup -pas">
+<ul>
+<li>Manufacturer - Apple</li>
+<li>Colour - Space Gray</li>
+<li>Battery Capacity - 20 hours of Play Time</li>
+<li>ANC - Yes</li>
+<li>Siri - Yes</li>
+</ul>
+</div>
+</section>

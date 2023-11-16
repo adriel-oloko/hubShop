@@ -1,0 +1,13 @@
+<section class="col8 card _fw -pvs -mvxs -fs12">
+<div class="markup -oxa -pas">Golden Penny Spaghetti is a long, thin, dried cylindrical pasta that is very tasty, does not get soggy and is enjoyed in a variety of ways and cooks in ten minutes.&nbsp;<br /><br />Rich in carbohydrates, essential fats, and other nutrients, the result is always a delicious mouth-watering delicacy.&nbsp;</div>
+</section>
+<section class="col8 card _fw -pvs -mvxs -fs12">
+<h3 class="-m -fs14 -phs">Key Features</h3>
+<div class="markup -pas">
+<ul>
+<li>​<span style="font-family: helvetica, arial, sans-serif;">A good source of Protein</span></li>
+<li><span style="font-family: helvetica, arial, sans-serif;">A good source of Vitamins</span></li>
+<li><span style="font-family: helvetica, arial, sans-serif;">It contains no cholesterol</span></li>
+</ul>
+</div>
+</section>

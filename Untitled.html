@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="preconnect" href="https://fonts.gstatic.com" />
+
+		<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@600;700&display=swap" rel="stylesheet" />
+
+		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+
+		<link rel="stylesheet" type="text/css" href="/css/style.css" />
+
+		<link rel="stylesheet" type="text/css" href="/css/media-queries.css" />
+
+		<link rel="stylesheet" type="text/css" href="/css/navbar.css" />
+
+		<meta name="viewport" content="width=device-width; initial-scale= 1.0;" />
+
+		<title>JJ Phones - Cart</title>
+	</head>
+	<body style="background-color:lightgrey; max-height:100%; overflow: none;margin-bottom: -10px; box-sizing: content-box;">
+		<form>
+			<script src="https://checkout.flutterwave.com/v3.js"></script>
+			<button type="button" onclick="makePayment()">Pay Now</button>
+		</form>
+		<script>
+			function makePayment() { 
+				FlutterwaveCheckout({
+				public_key: "FLWPUBK_TEST-SANDBOXDEMOKEY-X",
+				tx_ref: "RX1",
+				amount: 10,
+				currency: "USD", country: "US",
+				payment_options: " ",
+				redirect_url: "https://callbacks.piedpiper.com/flutterwave.aspx?ismobile=34",
+				meta: { consumer_id: 23,
+					consumer_mac: "92a3-912ba-1192a",
+				}, 
+				customer: { 
+					email: "cornelius@gmail.com", 
+					phone_number: "08102909304",
+					name: "Flutterwave Developers",
+			 },
+			 callback: function (data) {
+			 		console.log(data);
+			 	},
+			 	
+			 	onclose: function() {
+			 		// close modal 
+			 	}, customizations: { title: "My store", description: "Payment for items in cart", logo: "https://assets.piedpiper.com/logo.png", }, }); }</script>
+	</body>
+</html>

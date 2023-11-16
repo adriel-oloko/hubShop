@@ -1,0 +1,33 @@
+<section class="col8 card _fw -pvs -mvxs -fs12">
+<div class="markup -oxa -pas"><strong>XIAOMI A1 PLUS PREVIEW</strong><br />The Xiaomi Redmi A1 Plus is the step-up version to the standard Redmi A1 smartphone announced earlier. Like it sibling, it has a quad-core CPU, but come with a fingerprint scanner on the rear.</div>
+<div class="markup -oxa -pas">&nbsp;</div>
+<div class="markup -oxa -pas">The Redmi A1 Plus sports a 6.52-inches screen, with 720 x 1600 pixels. On the inside, you are getting the MediaTek Helio A22 quad-core CPU @2.0GHz. It has PowerVR GE8320 GPU, 2GB RAM and 32GB of built-in storage.</div>
+<div class="markup -oxa -pas">&nbsp;</div>
+<div class="markup -oxa -pas">The operating system is Google Android 12 with MIUI v12.</div>
+<div class="markup -oxa -pas"><br />The camera specifications of the Redmi A1 Plus includes an&nbsp;<strong>8-megapixel main lens</strong>, along with QVGA depth sensor. Your are also getting dual LED light on the rear, while the selfie sensor is capped at 5-megapixels.</div>
+<div class="markup -oxa -pas">&nbsp;</div>
+<div class="markup -oxa -pas">As mentioned above, the Plus version has a rear fingerprint scanner, which is it key difference with the standard model. Battery remains a 5000mAh juice. There is a space for 3-in-one card slot, but microUSB 2.0 is still used.</div>
+<div class="markup -oxa -pas"><br /><strong>Xiaomi A1 Plus Specification Summary:</strong>
+<ul>
+<li><strong>Display&nbsp;Size</strong>: 6.52" IPS LCD Screen</li>
+<li><strong>Platform</strong>: Android 12 OS</li>
+<li><strong>Chipset</strong>: Mediatek MT6761 Helio A22 (12 nm)</li>
+<li><strong>Camera</strong>: Dual Rear Camera (8MP Wide Angle &amp; 0.3MP Camera), Single Front Camera (5MP)</li>
+<li><strong>Sensors</strong>: Rear-Mounted Fingerprint, WIFI, Bluetooth</li>
+<li><strong>Battery</strong>: 5000 mAh</li>
+</ul>
+</div>
+</section>
+<section class="col8 card _fw -pvs -mvxs -fs12">
+<h3 class="-m -fs14 -phs">Key Features</h3>
+<div class="markup -pas">
+<ul>
+<li><strong>Display Size</strong>: 6.52" IPS LCD Screen</li>
+<li><strong>Platform</strong>: Android 12 OS</li>
+<li><strong>Chipset</strong>: Mediatek MT6761 Helio A22 (12 nm)</li>
+<li><strong>Camera</strong>: Dual Rear Camera (8MP Wide Angle &amp; 0.3MP Camera), Single Front Camera (5MP)</li>
+<li><strong>Sensors</strong>: Rear-Mounted Fingerprint</li>
+<li><strong>Battery</strong>: 5000 mAh</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		
+		
+		
+		<link rel="stylesheet" href="css/font-awesome.min.css" />
+		<link rel="stylesheet" type="text/css" href="./css/style.css" />
+		<link rel="stylesheet" type="text/css" href="css/media-queries.css" />
+		<link rel="stylesheet" type="text/css" href="./css/navbar.css" />
+		<link href="css/font-awesome.min.css" rel="stylesheet" />
+
+
+		<meta name="viewport" content="width=device-width; initial-scale= 1.0;" />
+
+		<title>Blog</title>
+	</head>
+	
+	<body style="background-color:lightgrey; max-height:100%; overflow: none;margin-bottom: -10px;">
+		
+		<!--Import files-->
+		<script type="text/javascript" src="js/navbar.js"></script>
+		<!--End import-->
+		
+		
+		<!--NAVBAR-->
+		<div id="navbar">
+			<!--Close Navbar-->
+			<button id="close-button" onclick="Close()">
+				<i style="color: gold;" class="fa fa-times fa-lg"></i>
+
+			</button>
+			<!--End-Of-Close-Navbar-->
+			<br />
+			<br />
+			<br />
+
+			<hr />
+			
+			<!--Search-In-Navbar-->
+			<input id="search-text" type="text" />
+
+			<button id="search-button">Search</button>
+			<button id="search" onclick="search()">
+				<i style="color: gold;" class="fa fa-search"></i>
+			</button>
+			<!--End-Search-In-Navbar-->
+			
+			<!--Home-->
+			<b>
+				<a href="#" id="bar-1" style=" font-size: 20px; float: left;visibility:hidden; color: gold; padding: 40px 0px 0px 50px;">Home</a>
+				<br />
+				<br />
+				<br />
+				<br />
+			</b>
+			
+			<hr />
+			
+			<!--Popular posts-->
+			<b>
+				<a href="query.html"id="bar-2">Popular posts</a>
+				<br />
+				<br />
+
+			</b>
+			<hr />
+			
+			<!--Support-->
+			<b>
+				<a href="support.html" id="bar-3">Support</a>
+				<br />
+				<br />
+			</b>
+			
+			<hr />
+			
+			<!--About me-->
+			<b>
+				<a href="About.html" id="bar-4">About me</a>
+				<br />
+				<br />
+			</b>
+			
+			<hr />
+			
+			<!--Tags-->
+			<b>
+				<a id="bar-5">Tags</a>
+			</b>
+			<br />
+			<div style="padding: 0px 0px 0px 50px; background-color: #00182B;">
+				<p style="line-height:1.5; border-right:10px solid #00182B;">
+					<a href="query.html"><span style="background-color:lightgrey; ">Travel</span></a>
+					<a href="query.html"><span>New York</span></a>
+					<a href="query.html"><span>London</span></a>
+					<a href="query.html"><span>IKEA</span></a>
+					<a href="query.html"><span>NORWAY</span></a>
+					<a href="query.html"><span>DIY</span></a>
+					<a href="query.html"><span>Baby</span></a>
+					<a href="query.html"><span>Family</span></a>
+					<a href="query.html"><span>News</span></a>
+					<a href="query.html"><span>Clothing</span></a>
+					<a href="query.html"><span>Shopping</span></a>
+					<a href="query.html"><span>Sports</span></a>
+					<a href="query.html"><span>Games</span></a>
+					<a href="query.html"><span>Travel</span></a>
+					<a href="query.html"><span>New York</span></a>
+					<a href="query.html"><span>London</span></a>
+					<a href="query.html"><span>IKEA</span></a>
+					<a href="query.html"><span>NORWAY</span></a>
+					<a href="query.html"><span>DIY</span></a>
+					<a href="query.html"><span>Baby</span></a>
+					<a href="query.html"><span>Family</span></a>
+					<a href="query.html"><span>News</span></a>
+					<a href="query.html"><span>Clothing</span></a>
+					<a href="query.html"><span>Shopping</span></a>
+					<a href="query.html"><span>Sports</span></a>
+					<a href="query.html"><span>Games</span></a>
+				</p>
+			</div>
+			
+			<hr />
+			
+			<!--Contact-->
+			<b>
+				<a href="contact.html" id="bar-6">Contact</a>
+				<br />
+				<br />
+			</b>
+			
+			<hr />
+			
+			<!--Write for us-->
+			<b>
+				<a href="write-for-us.html" id="bar-7">Write for us</a>
+				<br />
+				<br />
+			</b>
+			
+			<hr />
+			
+			<!--Newsletter-->
+			<div id="bar-8">
+				<b>Newsletter</b>
+				<br />
+				<br />
+				
+				 <input type="text" style=" height:25.5px; width:70%;float:left; border-radius: 5px 0px 0px 5px; border: 1px solid gold; padding: 0px 0px 0px 5px; font-size: 14px;" />
+				<button style=" background-color:gold;height:28px;width:25%; border-radius:0px 5px 5px 0px; border:1px solid gold; font-size: 15px;">Join</button>
+			</div>
+			
+			<br />
+			<br />
+			<br />
+			<br />
+			<hr />
+
+			<!--Navbar-footer-->
+			<div id="social-x">
+				<a style="color: #666666;" href="#">
+					<i class="fa fa-facebook"></i>
+				</a>
+				<a style="color: #666666;" href="#">
+					<i class="fa fa-instagram"></i>
+				</a>
+				<a style="color: #666666;" href="#">
+					<i class="fa fa-twitter"></i>
+				</a>
+				<a style="color: #666666;" href="#">
+					<i class="fa fa-youtube-play"></i>
+				</a>
+			</div>
+			<hr style="padding:0px; margin:0px;" />
+
+			<br />
+
+			<footer style="text-align:center; font-size:13px; color: white; background-color: #00182B;">Created by Adrielloks</footer>
+		</div>
+		<!--End Of Navbar-->
+		
+		
+		<!--Header-->
+		<div id="header" style="background-color: #00182B; background-size: 800% 800%; height: 90px; color:gold;margin-top:-8px; margin-left: -8px; margin-right:-8px;">
+			<a href="blog.html"> <pre style="font-size:25px;float:left; width:auto;height:auto; padding-left:10px; color: gold;">Rabolac</pre></a>
+			<button onclick="myFunction()" style="float:right; border:15px solid #00182B; padding-top:8px; font-size:20px; background-color:#00182B;">
+				<i style="color: gold;" class="fa fa-bars"></i>
+			</button>
+		</div>
+		<!--End-Of-Header-->
+		
+		<a href="#header"><button class="p-up"><i class="fa fa-chevron-up"></i></button></a>
+		
+		<hr />
+
+		<div style="background-color:white;padding:10px;border-left:5px solid lightgrey;">
+			<a href="./post.html">
+				<img class="blog-post" src="./images/forest.jpg" alt="img" onerror= "this.src='./images/image-not-found.jpg';" />
+
+			</a>
+			<h4 style="padding:5px 0px;">Vivamus non porttitor dui. </h4>
+			<p> Curabitur bibendum faucibus nulla nec luctus. Sed finibus aliquam urna, at rutrum velit commodo in. Maecenas iaculis semper interdum. Cras quis varius ipsum. </p>
+			<a href="./post.html">
+				<button style="border:1px solid black; height: 30px;background-color: white;">Read more >></button>
+			</a>
+			<pre><i class="fa fa-clock-o" style="text-align:left;color:lightgrey;font-size:10px;"> August 1, 2019 1:53 PM</i></pre>
+			<hr />
+
+			<a href="./post.html"> <img class="blog-post" src="./images/city.jpg" onerror= "this.src='./images/image-not-found.jpg';" /></a>
+
+			<h4 style="padding:5px 0px;">Lorem ipsum dolor sit amet </h4>
+			<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non egestas nulla. Proin suscipit tincidunt dapibus. Ut non tempus dui. </p>
+			<a href="./post.html"> <button style="border:1px solid black; height: 30px;background-color: white;">Read more >></button></a>
+			<pre><i class="fa fa-clock-o" style="text-align:left;color:lightgrey;font-size:10px;"> August 1, 2019 1:53 PM</i></pre>
+			<hr />
+
+
+			<a href="./post.html"><img class="blog-post" src="./images/122725.jpg" /></a>
+
+			<h4 style="padding:5px 0px;">Aliquam erat volutpat. </h4>
+			<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non egestas nulla. Proin suscipit tincidunt dapibus. Ut non tempus dui. </p>
+			<a href="./post.html"> <button style="border:1px solid black; height: 30px;background-color: white;">Read more >></button></a>
+			<pre><i class="fa fa-clock-o" style="text-align:left;color:lightgrey;font-size:10px;"> August 1, 2019 1:53 PM</i></pre>
+			<hr />
+
+			<a href="./post.html"> <img class="blog-post" src="./images/love.jpg" onerror= "this.src='./images/image-not-found.jpg';" /></a>
+
+			<h4 style="padding:5px 0px;">Cras eu eros sed. </h4>
+			<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non egestas nulla. Proin suscipit tincidunt dapibus. Ut non tempus dui. </p>
+			<a href="./post.html"> <button style="border:1px solid black; height: 30px;background-color: white;">Read more >></button></a>
+			<pre><i class="fa fa-clock-o" style="text-align:left;color:lightgrey;font-size:10px;"> August 1, 2019 1:53 PM</i></pre>
+			<hr />
+
+			<a href="./post.html"> <img class="blog-post" src="./images/TuISvD.jpg" onerror= "this.src='./images/image-not-found.jpg';" /></a>
+
+			<h4 style="padding:5px 0px;">Lorem ipsum dolor sit amet </h4>
+			<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non egestas nulla. Proin suscipit tincidunt dapibus. Ut non tempus dui. </p>
+			<a href="./post.html"> <button style="border:1px solid black; height: 30px;background-color: white;">Read more >></button></a>
+			<pre><i class="fa fa-clock-o" style="text-align:left;color:lightgrey;font-size:10px;"> August 1, 2019 1:53 PM</i></pre>
+			<hr />
+
+			 <a href="./post.html"> <img class="blog-post" src="./images/Palace.jpg" /></a>
+
+			<h4 style="padding:5px 0px;">Lorem ipsum dolor sit amet </h4>
+			<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non egestas nulla. Proin suscipit tincidunt dapibus. Ut non tempus dui. </p>
+			<a href="./post.html"> <button style="border:1px solid black; height: 30px;background-color: white;">Read more >></button></a>
+			<pre><i class="fa fa-clock-o" style="text-align:left;color:lightgrey;font-size:10px;"> August 1, 2019 1:53 PM</i></pre>
+			<hr />
+
+		</div>
+		<br />
+
+		<button style="float:right;border:1px solid black; height:35px; background-color:white;">Previous >></button>
+		<br />
+
+		<br />
+
+		<br />
+
+		<!--Popular posts division-->
+		<div class="post">
+			<h4>Popular posts:</h4>
+			<hr>
+			<img style= "height: 100px; width:100px; float: left;" src="./images/lion.jpg"/>
+			<div style="width: 100%;">
+				<b><p style="padding:5px 0px 0px 0px; line-height: 0.5px; font-size: 15px; margin-left: 105px;">General license for code</p></b>
+				<p style= "position: auto; width: auto; margin-left: 105px; font-size: 12px; margin-bottom: 0px; padding-bottom: 2px;"> This version of the GNU Lesser General Public License incorporates the terms and conditions of version 3 of the GNU General Public License, supplemented by the... </p>
+				 <a href="./post.html"><button style="border:1px solid black; height: 30px;background-color: white; margin-left:5px;">Read more >></button></a>
+			</div>
+			<pre><i class="fa fa-clock-o" style="text-align:left;color:lightgrey;font-size:10px;"> August 1, 2019 1:53 PM</i></pre>
+		
+				<hr>
+			
+			
+			<img style= "height: 100px; width:100px; float: left;" src="./images/wallp.jpg"/>
+			<div style="width: 100%;">
+				<b><p style="padding:5px 0px 0px 0px; line-height: 0.5px; font-size: 15px; margin-left: 105px;">General license for code</p></b>
+				<p style= "position: auto; width: auto; margin-left: 105px; font-size: 12px; margin-bottom: 0px; padding-bottom: 2px;"> This version of the GNU Lesser General Public License incorporates the terms and conditions of version 3 of the GNU General Public License, supplemented by the... </p>
+				 <a href="./post.html"><button style="border:1px solid black; height: 30px;background-color: white; margin-left:5px;">Read more >></button></a>
+			</div>
+			<pre><i class="fa fa-clock-o" style="text-align:left;color:lightgrey;font-size:10px;"> August 1, 2019 1:53 PM</i></pre>
+					
+			<hr>
+		</div>
+		<!--End of Popular Post-->
+		<br />
+
+		<br />
+
+		<br />
+		
+		<!--Subscribtion-->
+		<div class="post">
+			<h4>Subscribe:</h4>
+			<hr />
+
+			<p style="font-size:1em;">Enter your email to subscribe to this blog and receive notifications of new posts by email</p>
+			<input type="text" style=" height:25.5px; width:50%;float:left; border-radius: 5px 0px 0px 5px; border: 1px solid gold; padding: 0px 0px 0px 5px; font-size: 14px;" />
+			<button style=" background-color:gold;height:28px;width:10%; border-radius:0px 5px 5px 0px; border:1px solid gold; font-size: 15px;">Join</button>
+			
+			<!--End-Of-Sibscription-->
+			
+		</div>
+		<div style="text-align:center;padding 5px 5px;border:5px solid lightgrey;">
+			<a><i class="fa fa-facebook"></i></a>
+			<a><i class="fa fa-instagram"></i></a>
+			<a><i class="fa fa-twitter"></i></a>
+			<a><i class="fa fa-youtube-play"></i></a>
+			<hr />
+
+		</div>
+		
+		<!--<div id="foot" style="background-color: #00182B; background-size: 800% 800%; height: 45px; color: lightgrey; margin-bottom: -50px; bottom:0; margin-left: -8px; margin-right:-8px; font-size: 15px;">-->
+		<footer>
+			Created by adrielloks
+			<br />
+			2019
+		</footer>
+	
+	</body>
+</html>

@@ -1,0 +1,16 @@
+<section class="col8 card _fw -pvs -mvxs -fs12">
+<div class="markup -oxa -pas">There are lots of powerful inspiration behind everything we design. We are inspired by you. Chrysolite Designs is a fashion brand that uses textile designs to connect mind &amp; soul together.<br /><br />Well structured and designed Hoodie always style points in any wardrobe, setting the tone for a fun outing at the mall with friends or a laid back dress-down day.<br /><br />The hoodie is made of thick, soft and comfortable hood material and is meant for both unisex.<br /><br />Be confident and engaging in this fabric-rich unisex outfit, casually sophisticated with a dash of simplicity.<br /><br /><br /><strong>AFRICAN HISTORY HOODIE</strong><br /><br /><strong>Quality Printing Fabric</strong><br /><br />Chrysolite Designs guarantees you the perfect comfort, swag, style Hoodie.<br /><br />Fashion on Hub never gets old. Shop the widest online range of first-rate clothing and accessories at the best prices.<br /><br />Have you been searching for a Store with the best creative, inspirational &amp; soul lifting fashion outfit &amp; shirt designs?, just stop by at Chrysolite Designs Stores monthly. We've always got something so amazing for you.<br /><br /></div>
+</section>
+<section class="col8 card _fw -pvs -mvxs -fs12">
+<h3 class="-m -fs14 -phs">Key Features</h3>
+<div class="markup -pas">
+<ul>
+<li>Quality fabric</li>
+<li>Thick &amp; comfortable</li>
+<li>Non fading</li>
+<li>Sharp print</li>
+<li>Front pocket</li>
+<li>Unisex</li>
+</ul>
+</div>
+</section>

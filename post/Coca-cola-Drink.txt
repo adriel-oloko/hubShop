@@ -1,0 +1,14 @@
+<section class="col8 card _fw -pvs -mvxs -fs12">
+<div class="markup -oxa -pas">Coca-Cola is a sparkling, lovely, refreshing sweet, crisp, tasty carbonated soft drink with a great satisfying taste. It is very refreshing and suits every occasion where served or taken. It has a satisfying taste that will always keep you asking for more. Best when served chilled.Coca-Cola is a sparkling, lovely, refreshing, sweet, crisp, tasty, carbonated soft drink with a great satisfying taste.</div>
+</section>
+<section class="col8 card _fw -pvs -mvxs -fs12">
+<h3 class="-m -fs14 -phs">Key Features</h3>
+<div class="markup -pas">
+<ul>
+<li>Sparkling</li>
+<li>Sweet</li>
+<li>Carbonated soft drink</li>
+<li>Great satisfying taste</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,16 @@
+<section class="col8 card _fw -pvs -mvxs -fs12">
+<div class="markup -oxa -pas">Power Pasta Spaghetti is a product of Pure Flour Mills Ltd. and made from Hard Wheat Flour. Power Pasta Spaghetti has two variants (Thick &amp; Thin) and are long dried cylindrical Spaghetti to give you a great taste makes it very enjoyable within family and in a company of friends.<br /><br />It cooks in 5 minutes and can be enjoyed with Salads, Rice &amp; Stew, Jollof Rice, Coconut Rice, Fried Rice also with Vegetables and some mouthwatering recipes can be made by Power Pasta Spaghetti. Power Pasta Spaghetti is distributed through multiple local channel and then it&rsquo;s been sold by them to our consumers.</div>
+</section>
+<section class="col8 card _fw -pvs -mvxs -fs12">
+<h3 class="-m -fs14 -phs">Key Features</h3>
+<div class="markup -pas">
+<ul>
+<li>It cooks in 5 minutes</li>
+<li>Versatile</li>
+<li>Thick Pasta</li>
+<li>Made from hard wheat flour</li>
+<li>Great taste&nbsp;</li>
+<li>475g</li>
+</ul>
+</div>
+</section>

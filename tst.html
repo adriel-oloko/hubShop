@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<link rel="stylesheet" type="text/css" href="./css/style.css" />
+		<link rel="stylesheet" type="text/css" href="./css/font-awesome.min.css" />
+	
+		<link rel="preconnect" href="https://fonts.gstatic.com">
+		<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@600;700&display=swap" rel="stylesheet">
+		
+		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+
+		<meta name="viewport" content="width=device-width, initial-scale= 1.0;" />
+		
+		
+		<title>HUB || Home</title>
+		<style>
+			/** {
+				box-sizing: border-box;
+			}*/
+			
+			.mySlides1, .mySlides2 {
+				display: none;
+				height: 100%;
+				margin: 0px;
+				padding:0px;
+		 }
+		 
+		 img {
+		 		vertical-align: middle;
+		 	}
+
+/* Slideshow container */
+.slideshow-container {
+  width: 100%;
+  height: auto;
+  position: relative;
+  margin: auto;
+  box-sizing: border-box;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a grey background color */
+.prev:hover, .next:hover {
+  background-color: #f1f1f1;
+  color: black;
+}
+</style>
+
+	</head>
+	
+	<body>
+		<!--Import files-->
+		<script type="text/javascript" src="/js/navbar.js"></script>
+		<!--End import-->
+		
+		<div id="menu-floats">
+ 			<div id="icon-hold" >
+ 				<i class="fa fa-home"></i>
+ 			</div>
+ 			
+ 			<div id="icon-hold" >
+ 				<i class="fa fa-user"></i>
+ 			</div>
+ 			
+ 			<div id="icon-hold" >
+ 				<i class="fa fa-shopping-cart"></i>
+ 			</div>
+ 			
+ 		</div>
+ 		
+ 		<div id="header">
+ 			
+ 			<table style="width: 100%;">
+ 				<tr id="header-tr">
+ 					
+ 					<th style="width: 40px;">
+ 						<div id="menu-button">
+ 							<button style="border: 0px solid #010070; padding: 0px; width: 100%; height: 100%; font-size: 18px; background: #fff;" onclick="Open()"><i class="fa fa-bars"></i></button>
+ 						</div>
+ 					</th>
+ 					
+ 					<th>
+ 						<div id="logo-hold">
+ 							<img src="./images/logo.png" style="width: 100%; height: auto;"/>
+ 						</div>
+ 					</th>
+ 					
+ 					<th style="width: 40px; visibility: hidden;">
+ 						<div id="menu-button">
+ 							<i class="fa fa-bars"></i>
+ 						</div>
+ 					</th>
+ 					
+ 				</tr>
+ 			</table>
+ 		</div>
+ 		
+ 		<div id="navbar">
+			<table style="width: 100%; height: 50px; padding: 0px;">
+				<tr>
+				<th style="width: 15%; text-align: center; padding: 0px; visibilty: hidden;">
+				<div id="header-nav-button">
+				<button onclick="Close()" ><h2><i class="fa fa-close" style="visibilty: hidden; display: none;"></i></h2></button>
+				</div>
+				</th>
+				
+				<th style="margin: auto; width: auto; text-align: center; padding: 0px;">
+					<a href="/"><div id="logo-hold">
+ 							<img src="./images/logo.png" style="width: 100%; height: auto;"/>
+ 						</div></a>
+				</th>
+				
+				<th style="width: 15%; text-align: center; padding: 0px;">
+				<div id="header-nav-button">
+				<button onclick="Close()"><h2><i class="fa fa-times"></i></h2></button>
+				</div>
+				</th>
+				</tr>
+			</table>
+			
+			<div style="padding: 5px; border: 1px solid #ccc; height: 40px; width: 90%; margin: auto; font-size: 14px; border-radius: 15px;">
+				<form action="/search/handler" method="post">
+				<input name="query" type="text" style="border: 0px solid #ccc;width: 77%; float: left; font-size: 16px; height: 40px; outline: none;"/>
+				<button style="width: 29%; float: right;border: 1px solid #ccc; border-radius: 15px; width: 40px; height: 40px; font-size: 14px; background: gold;"><i class="fa fa-search"></i></button>
+				</form>
+			</div>
+			
+			
+			<hr />
+			<a href="/"><h4>Home</h4></a>
+			<hr />
+			<a href="/account"><h4>Account</h4></a>
+			<hr />
+			<a href="/about-us"><h4>About us</h4></a>
+			<hr />
+			<a href="/delivery-info"><h4>Delivery info</h4></a>
+			<hr />
+			<a href="/return-policy"><h4>Return policy</h4></a>
+			<hr />
+			<a href="/privacy-policy"><h4>Privacy policy</h4></a>
+			<hr />
+			<a href="/faq"><h4>FAQ</h4></a>
+			<hr />
+			<a href="/contact-us"><h4>Contact us</h4></a>
+			<hr />
+		</div>
+		
+ 		<hr />
+ 		
+		<div class="slideshow-container">
+			
+			<div class="mySlides1">
+				<img src="./images/drone.jpeg.jpg" style="width:100%; height: auto; padding: 0px;">
+			</div>
+			
+			<div class="mySlides1">
+				<img src="./images/container.jpg" style="width:100%; height: auto; padding: 0px;">
+			</div>
+			
+			
+			<div class="mySlides1">
+				<img src="./images/logo.png" style="width: 50%; height: 50%;">
+			</div>
+			
+			<a class="prev" onclick="plusSlides(-1, 0)">&#10094;</a>
+			<a class="next" onclick="plusSlides(1, 0)">&#10095;</a>
+		</div>
+		
+		<br />
+		
+		<hr style="margin: auto; width: 80%;"/>
+		
+		<br />
+		
+		<div id="main">
+			
+ 			<div class="post">
+ 				
+				<div style="width: 100%; border: 0px solid #aaa; height: 125px; padding: 0px;">
+					<div style=" width: 30%; float: left; height: 85%;">					<img src="./images/logo.png" style="padding-bottom: 5px; height: 100%; border: 0px solid #aaa;"/></div>
+					<div style=" width: 69%; float: right; height: 110px;">
+						<b><p style="padding-left: 10px; font-family: 'Nunito', sans-serif;">Bose SoundLink</p></b>
+						<b><p style="padding-left: 10px; font-family: 'Nunito', sans-serif;">₦5500</p></b>
+					</div>
+					<div style="width: 48%; height: auto; float: left;">
+						<a href="/pr/4/Bose SoundLink"><button style="border:1px solid black; width: 100%; height:auto; background-color:white;">Preview</button></a>	
+					</div>
+					
+					<div style="width: 48%; height: auto; float: right;">				<form action="/add-cart/4" method="post" enctype="multipart/form-data">				 <button style="float: right;border:1px solid black; width: 100%; height:100%; background-color:white;">Cart</button> <input name="quantity" id = "quantity" style="display:none;" value="1"/>			 </form>			</div>
+			</div>
+			<br />
+			<hr>
+			
+			<div style="width: 100%; border: 0px solid #aaa; height: 125px; padding: 0px;">
+					<div style=" width: 30%; float: left; height: 85%;">					<img src="./images/spark_5.jpg" style="padding-bottom: 5px; height: 100%; border: 0px solid #aaa;"/></div>
+					<div style=" width: 69%; float: right; height: 110px;">
+						<b><p style="padding-left: 10px; font-family: 'Nunito', sans-serif;">Bose SoundLink</p></b>
+						<b><p style="padding-left: 10px; font-family: 'Nunito', sans-serif;">₦5500</p></b>
+					</div>
+					<div style="width: 48%; height: auto; float: left;">
+						<a href="/pr/4/Bose SoundLink"><button style="border:1px solid black; width: 100%; height:auto; background-color:white;">Preview</button></a>	
+					</div>
+					
+					<div style="width: 48%; height: auto; float: right;">				<form action="/add-cart/4" method="post" enctype="multipart/form-data">				 <button style="float: right;border:1px solid black; width: 100%; height:100%; background-color:white;">Cart</button> <input name="quantity" id = "quantity" style="display:none;" value="1"/>			 </form>			</div>
+			</div>
+			<br />
+			<hr>
+				
+				
+			<div style="width: 100%; border: 0px solid #aaa; height: 125px; padding: 0px;">
+					<div style=" width: 30%; float: left; height: 85%;">					<img src="./images/spark_5.jpg" style="padding-bottom: 5px; height: 100%; border: 0px solid #aaa;"/></div>
+					<div style=" width: 69%; float: right; height: 110px;">
+						<b><p style="padding-left: 10px; font-family: 'Nunito', sans-serif;">Bose SoundLink</p></b>
+						<b><p style="padding-left: 10px; font-family: 'Nunito', sans-serif;">₦5500</p></b>
+					</div>
+					<div style="width: 48%; height: auto; float: left;">
+						<a href="/pr/4/Bose SoundLink"><button style="border:1px solid black; width: 100%; height:auto; background-color:white;">Preview</button></a>	
+					</div>
+					
+					<div style="width: 48%; height: auto; float: right;">				<form action="/add-cart/4" method="post" enctype="multipart/form-data">				 <button style="float: right;border:1px solid black; width: 100%; height:100%; background-color:white;">Cart</button> <input name="quantity" id = "quantity" style="display:none;" value="1"/>			 </form>			</div>
+			</div>
+			<br />
+			<hr>
+				
+			</div>
+		</div>
+		
+		
+		<div id="footer">
+			<hr />
+			
+			<h3 style="margin-bottom: -9px;">Contact Us</h3>
+			<br />
+			<p>store@glassesng.com Shop 4, Petrocam shopping complex, off Elf Busstop. opposite Citilodge Hotel. Lekki Phase 1, Lagos. 09098592808</p>
+			
+			
+			<hr style="width: 70%; text-align: center;" />
+			<br />
+			<p id="footer">chopped by adrielloks<p>
+			<p id="footer">©{{yr}}</p>
+			<br />
+		</div>
+		
+		
+		<script>
+var slideIndex = [1,1];
+var slideId = ["mySlides1", "mySlides2"]
+showSlides(1, 0);
+showSlides(1, 1);
+
+function plusSlides(n, no) {
+  showSlides(slideIndex[no] += n, no);
+}
+
+function showSlides(n, no) {
+  var i;
+  var x = document.getElementsByClassName(slideId[no]);
+  if (n > x.length) {slideIndex[no] = 1}    
+  if (n < 1) {slideIndex[no] = x.length}
+  for (i = 0; i < x.length; i++) {
+     x[i].style.display = "none";  
+  }
+  x[slideIndex[no]-1].style.display = "block";  
+}
+</script>
+	</body>
+</html>

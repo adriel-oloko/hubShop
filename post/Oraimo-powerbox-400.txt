@@ -1,0 +1,20 @@
+<section class="col8 card _fw -pvs -mvxs -fs12">
+<div class="markup -oxa -pas">You can easily slips it into any of your pockets or bags.<br />40000mAh of power charges most phones over 5 times, tablets at least 3 times and any other USB device multiple times.</div>
+<div class="markup -oxa -pas"><br />Built-in safeguards protect your devices against excessive current, overheating, and overcharging.<br />Suitable for charge most of digital devices, such as smartphones, tablets and other USB-powered devices.</div>
+<div class="markup -oxa -pas"><br />Dual charging port with oraimo Fast-Charging technology charges two devices at the same time - without sacrificing charging speed.</div>
+<div class="markup -oxa -pas"><br />Surge protection, short circuit prevention and more advanced safety features keep you and your devices safe.</div>
+<div class="markup -oxa -pas"><br />Built-in L-E-D Display exactly shows remaining capacity in digital format. See how much charging power is left at a glance.<br /><br /><strong>Specifications:</strong><br />Color: black<br />Capacity: 40000mAh<br />Input1(Lightning): 5V-2A<br />Input2(Type-C): 5V-2A<br />Input3(Micro USB): 5V-2A<br />Output1(USB): 5V⎓2.1A Max<br />Output2(USB): 5V⎓2.1A Max<br />Dimension: 159*81*32mm<br /><br /></div>
+</section>
+<section class="col8 card _fw -pvs -mvxs -fs12">
+<h3 class="-m -fs14 -phs">Key Features</h3>
+<div class="markup -pas">
+<ul>
+<li>Capacity -40000-mah</li>
+<li>Ultra High Capacitty</li>
+<li>2.1A Fast Charging</li>
+<li>Dual Usb Input</li>
+<li>Power LED Display</li>
+<li>Ultra capacity 22.5w</li>
+</ul>
+</div>
+</section>

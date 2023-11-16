@@ -1,0 +1,15 @@
+<section class="col8 card _fw -pvs -mvxs -fs12">
+<div class="markup -oxa -pas"><strong>​Ultra a.k.a. The White Monster</strong></div>
+<div class="markup -oxa -pas">Some people are impossible to please. As soon as they get what they thought they wanted, they always want more. Our team riders and Monster Girls are no different&hellip; they&rsquo;ve been dropping some hints lately. They&rsquo;ve been asking us for a new Monster drink. A little less sweet, lighter-tasting, zero calories, but with a full load of our Monster energy blend. Sure, white is the new black. We went all out: Monster Energy Ultra.</div>
+<div class="markup -oxa -pas">Flavour Profile: Light Refreshing Citrus Unleash the Ultra Beast!</div>
+</section>
+<section class="col8 card _fw -pvs -mvxs -fs12">
+<h3 class="-m -fs14 -phs">Key Features</h3>
+<div class="markup -pas">
+<ul>
+<li>​Zero calories</li>
+<li>Light refreshing citrus</li>
+<li>Light taste</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,21 @@
+<section class="col8 card _fw -pvs -mvxs -fs12">
+<div class="markup -oxa -pas">Hot Shapers is an incredible fitness wear designed with smart fabric, a technology that helps your body to sweat out harmful fats. The product offers an easy way of losing out excess body weight and have an ideal slim physique.</div>
+<div class="markup -oxa -pas">&nbsp;</div>
+<div class="markup -oxa -pas">Also, with this you don&rsquo;t have to put in much effort. All you need to do is just wear Hot shapers waist trainer and your body will start sweating away extra inches from the body fat. This is because of the fabric body shaper is made of.</div>
+<div class="markup -oxa -pas">&nbsp;</div>
+<div class="markup -oxa -pas">The fabric increases the temperature and makes your body sweat more. Hot Shapers is an incredible fitness wear designed with smart fabric, a technology that helps your body to sweat out harmful fats. The product offers an easy way of losing out excess body weight and have an ideal slim physique. Also, with this you don&rsquo;t have to put in much effort. All you need to do is just wear Hot shapers waist trainer and your body will start sweating away extra inches from the body fat. This is because of what the fabric body shaper is made of.</div>
+<div class="markup -oxa -pas">&nbsp;</div>
+<div class="markup -oxa -pas">THE FABRIC INCREASES THE TEMPERATURE AND MAKE YOUR BODY TO SWEAT MOREHELPS IN WEIGHT LOSSHELPS IN BURNING TOMMYIT GIVES AWESOME&nbsp; BACK BACKING MAXIMISE FITNESS ROUTING SLIM WAIST,TUMMY AND TIGHTSINCREASE YOUR CORE BODY TEMPERATUREIMPROVE YOUR OVERALL WELL-BEINGHELP IN BURNING TOMMY FAT FASTER AND GIVES BETTER RESULT.</div>
+<div class="markup -oxa -pas">&nbsp;</div>
+<div class="markup -oxa -pas">The fabric increases the temperature and makes your body sweat more.Helps in weight lossHelps in burning tummy fatIt gives awesome back backingMaximizes fitness routinesSlim waist tummy and tightsIncrease your core body temperatureImprove your overall well-beingHelps in burning tummy fatFaster and better results</div>
+</section>
+<section class="col8 card _fw -pvs -mvxs -fs12">
+<h3 class="-m -fs14 -phs">Key Features</h3>
+<ul>
+<li class="markup -pas">The fabric increases the temperature and makes your body sweat more.</li>
+<li class="markup -pas">Helps in weight lossHelps in burning tummy fatIt gives awesome back backing.</li>
+<li class="markup -pas">Maximizes fitness routines</li>
+<li class="markup -pas">Slim waist tummy and tightsIncrease your core body temperature.</li>
+<li class="markup -pas">Improve your overall well-beingHelps in burning tummy fatFaster</li>
+</ul>
+</section>
